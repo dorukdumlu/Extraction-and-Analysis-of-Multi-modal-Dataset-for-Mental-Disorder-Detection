@@ -1,0 +1,7 @@
+file_128_eeg = os.path.join(base_done, "128channels_resting", "output", "final_merged_EEG_128channels_analysis.xlsx")
+file_dot_probe_output = os.path.join(base_done, "audio", "dot_probe_audio", "dot probe output.xlsx")
+file_resting_audio = os.path.join(base_done, "audio", "resting_audio", "output", "resting_state_audio.xlsx")
+file_behavioral = os.path.join(base_done, "Behavioral_Data", "behavioral_data.xlsx")
+file_dot_probe = os.path.join(base_done, "EEG", "dot probe.xlsx")
+file_resting_state = os.path.join(base_done, "EEG", "resting state.xlsx")
+file_3ch_resting = os.path.join(base_done, "EEG_3channels_resting_lanzhou_2015", "3_channels_resting.xlsx")
